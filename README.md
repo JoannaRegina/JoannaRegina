@@ -1,4 +1,4 @@
-## Oiê! Sou a Joanna 🐞
+## Olá! Sou a Joanna.
  <div>
   <a href="https://github.com/JoannaRegina">
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoannaRegina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
